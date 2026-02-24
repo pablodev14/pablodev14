@@ -9,9 +9,13 @@
   </ul>
 </div>
 
+<!--Imagen JPEG-->
 
+<p align="center">
+  <img src="assets/foto.jpeg" width="180" style="border-radius: 50%;" />
+</p>
 
-
+<!--Fin Imagen JPEG-->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
