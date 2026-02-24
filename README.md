@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando con **AWS, Java, C#**
+- 🔭 Actualmente estoy aprendiendo **AWS, Java, C#**
 
 - 🌱 Estudio Ingenieria de sistemas, estoy en 3 semestre, **Busco desempeñarme en el campo del desarrollo y las redes.**
 
