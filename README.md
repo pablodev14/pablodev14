@@ -1,4 +1,4 @@
-
+## 👋 Sobre mi
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -34,7 +34,12 @@
 
 <!--Intro end-->
 
-
+## 📈 Progreso
+- 🔥 **Constancia:** Mejorando mi racha de commits cada semana  
+- ☁️ **Cloud:** Aprendiendo y practicando con AWS  
+- 💻 **Backend:** Fortaleciendo habilidades en Java y C#  
+- 🌐 **Redes:** Profundizando en fundamentos de redes y telecomunicaciones  
+- 🚀 **Objetivo 2026:** Construir proyectos escalables en la nube  
 
 <!--- stats & Trophy (start) -->
 <div align="center">
@@ -47,6 +52,7 @@
 </p>        
 <!--- stats (end) -->
 
+## 🛠 Tecnologías
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -61,6 +67,7 @@
   </a>
 </p>
 
+## 📫 Contacto
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
