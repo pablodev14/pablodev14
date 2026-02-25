@@ -63,7 +63,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,github,html,java,linux.c#" />
+    <img src="https://skillicons.dev/icons?i=aws,github,html,java,linux,cs" />
   </a>
 </p>
 
